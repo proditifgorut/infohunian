@@ -1,7 +1,7 @@
 import { Price, Testimonial } from '../types';
 
 export const pricingData: Price[] = [
-  { category: 'Pelajar', icon: '👨‍🎓', daily: 120000, weekly: 700000, monthly: 1800000, yearly: 17000000 },
+  { category: 'Pelajar', icon: '👨‍🎓', daily: 120000, weekly: 300000, monthly: 800000, yearly: 10000000 },
   { category: 'Mahasiswa', icon: '🎓', daily: 150000, weekly: 900000, monthly: 2200000, yearly: 20000000 },
   { category: 'Pegawai', icon: '💼', daily: 200000, weekly: 1100000, monthly: 2800000, yearly: 25000000 },
   { category: 'Keluarga Kecil', icon: '👨‍👩‍👧‍👦', daily: 250000, weekly: 1300000, monthly: 3500000, yearly: 30000000 },
